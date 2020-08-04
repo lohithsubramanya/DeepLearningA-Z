@@ -2,3 +2,6 @@
 
 
 - The Untimate guide to ANN's - https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann
+
+
+- The Ultimate guide to CNN's - https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
