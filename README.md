@@ -5,3 +5,6 @@
 
 
 - The Ultimate guide to CNN's - https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+
+
+- The Ultimate guide to Recurrent NN's - https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-networks-rnn
