@@ -8,3 +8,6 @@
 
 
 - The Ultimate guide to Recurrent NN's - https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-networks-rnn
+
+
+- Self Organising Maps - http://www.ai-junkie.com/ann/som/som1.html
